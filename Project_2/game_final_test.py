@@ -3,6 +3,8 @@ import numpy as np
 def random_predict(number:int=1) -> int:
          
     count = 0
+    
+    # Пределы генерации
     bottom_limit = 1
     top_limit = 101
     

@@ -5,7 +5,9 @@
 
 [2. Метрика качества](https://github.com/MaximZhambalov/SF_Homework/blob/main/README.md#Метрика-качества)
 
-[2. Что практикуем](https://github.com/MaximZhambalov/SF_Homework/blob/main/README.md#Что-практикуем)
+[3. Что практикуем](https://github.com/MaximZhambalov/SF_Homework/blob/main/README.md#Что-практикуем)
+
+[4. Решение]((https://github.com/MaximZhambalov/SF_Homework/blob/main/README.md#Решение))
 
 ### Условие задания.
 
@@ -20,3 +22,7 @@
 - Учимся писать хороший код на Python.
 - Учимся работать с IDE.
 - Учимся работать с GitHub.
+
+### Решение.
+
+Сужение области поиска изменением пределов генератора случайных чисел на сгенерированное ранее число. Решение наверняка не самое изящное, но очевидное.
