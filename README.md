@@ -7,7 +7,7 @@
 
 [3. Что практикуем](https://github.com/MaximZhambalov/SF_Homework/blob/main/README.md#Что-практикуем)
 
-[4. Решение]((https://github.com/MaximZhambalov/SF_Homework/blob/main/README.md#Решение))
+[4. Решение](https://github.com/MaximZhambalov/SF_Homework/blob/main/README.md#Решение)
 
 ### Условие задания.
 
