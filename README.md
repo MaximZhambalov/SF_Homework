@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# SF_Homework
-=======
-# My_Data_Science
->>>>>>> master
+My first project in Python:
+
+Project 1: Study game
