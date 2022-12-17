@@ -23,6 +23,12 @@ def get_chess(a):
         b += 2
     return temp
 
-print (get_chess(10))
+def get_chess_2(a):
+    temp = np.zeros((a,a))
+    temp[1::2, ::2] = 1
+    #temp[::2, 1::2] = 1
+    return temp
+
+print (get_chess_2(10))
 
 
